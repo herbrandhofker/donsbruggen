@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Peugeot Expanded';
+    src: url('PeugeotExpanded-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Peugeot';
+    src: url('Peugeot-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Peugeot';
+    src: url('Peugeot-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Peugeot';
+    src: url('Peugeot.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
